@@ -151,7 +151,7 @@
     "cypress-localstorage-commands": "^2.2.6",
     "cypress-split": "^1.24.5",
     "dompurify": "^3.1.7",
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.4.7",
     "eslint": "^9.18.0",
     "eslint-config-prettier": "^10.0.0",
     "eslint-plugin-i18next": "^6.1.0",
